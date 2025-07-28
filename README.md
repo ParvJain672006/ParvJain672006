@@ -1,76 +1,54 @@
-# 👋 Hi, I'm Parv Bhai (Parv Jain)
+<!-- Project Logo -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java logo" width="100" height="100"/>
+</p>
 
-🚀 **Aspiring Full Stack Java Developer** | 🛠️ Builder at **Namo Kitchen** | 🧠 Always Learning & Creating
+<h1 align="center">🚀 JAVA ADVANCED 🚀</h1>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Level+Up+Your+Java+Skills;Master+Collections%2C+Threads%2C+Enums+and+More;Consistent+Code+%3D+Strong+Dev" />
+</p>
 
-## 👨‍💻 About Me
-
-I'm an 18-year-old tech enthusiast currently diving deep into the world of **Java Full Stack Development**. My goal is to master not just backend and frontend technologies, but also explore top-trending tools in AI, DevOps, and cloud to build smart, scalable, and real-world applications.
-
-On the entrepreneurial side, I actively manage and innovate with **[Namo Kitchen](https://www.instagram.com/namokitchen_jaipur/)** – a Jaipur-based business offering **cold-pressed oils** and **smart kitchen appliances**.
-
----
-
-## 💼 My Goals
-
-- ✅ Master Java, Spring Boot, React, REST APIs & Database Systems
-- ✅ Build real-world business tools (billing, POS, CRM) for Namo Kitchen
-- 🚀 Launch SaaS tools and e-commerce solutions
-- 🌍 Explore AI tools to scale business impact
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Java-Advanced-blue?style=for-the-badge&logo=java&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/github/languages/top/ParvJain672006/JAVA-ADVANCED?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/github/last-commit/ParvJain672006/JAVA-ADVANCED?style=for-the-badge&color=brightgreen"/></a>
+</p>
 
 ---
 
-## 🔧 Technologies I’m Learning
+## 🧠 About This Project
 
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Core Java, Spring Boot, REST APIs
-- **Database**: MySQL, MongoDB
-- **Tools**: Git & GitHub, Postman, VS Code
-- **Upcoming**: Docker, Jenkins, AWS, AI Tools
+This repository is part of my **150 Days of Java** challenge where I'm going deep into advanced Java concepts including:
 
----
+- ✅ Java Collections Framework (JCF)
+- ✅ Multi-threading & Concurrency
+- ✅ Enums & Custom Annotations
+- ✅ Clean Code Practices
 
-## 🛠️ Featured Projects
-
-| Project Name         | Description                                   | Tech Stack                |
-| :------------------- | :-------------------------------------------- | :------------------------ |
-| **Java Advanced Repo** | Practice and concepts of OOPs, Collections, Threads, etc. | Java                      |
-| **Namo Kitchen CRM** (WIP) | Custom CRM & inventory tool for our family business | Java, MySQL, React        |
-| **Portfolio Website** | Personal portfolio to showcase my projects & blogs | HTML, CSS, JavaScript     |
+> 🔍 This project isn’t just for learning — I’m building real-world logic for business tools used in [Namo Kitchen](https://www.instagram.com/namokitchen_jaipur/).
 
 ---
 
-## 📈 GitHub Stats
+## 🗂️ Table of Contents
 
-![Parv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParvJain672006&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Let’s Connect
-
-- 💼 Instagram (Business): [@namokitchen_jaipur](https://www.instagram.com/namokitchen_jaipur/)
-- 🔗 LinkedIn: [Parv Jain](https://www.linkedin.com/in/parv-jain-672006)
-- 📧 Email: parvjain672006@gmail.com
+- [🧠 About This Project](#-about-this-project)
+- [📁 Project Structure](#-project-structure)
+- [⚙️ Tech Stack](#️-tech-stack)
+- [📸 Screenshots](#-screenshots)
+- [📌 Usage](#-usage)
+- [📈 GitHub Stats](#-github-stats)
+- [🤝 Connect with Me](#-connect-with-me)
 
 ---
 
-> “Code hard. Learn smart. Build things that solve real problems.”
+## 📁 Project Structure
 
----
-
-### ✅ How to Use It:
-
-1.  Save the code above as `README.md` inside your GitHub profile repo: `ParvJain672006/ParvJain672006`.
-2.  Replace any broken links or update your project names as needed.
-3.  Push it and you’re done — GitHub will use this as your profile README.
-
----
-
-I can also help you add:
-
-* A timeline of your 150-day coding challenge
-* A product section for Namo Kitchen
-* A portfolio site link if you build one
-
-Ready to level up? 💻🔥
+```bash
+JAVA-ADVANCED/
+├── customAnnotations/
+├── Enumeration/
+├── intro/
+├── JCFjavaCOLLECTIONframework/
+│   └── LeaderBoardExample.java
+├── README.md
