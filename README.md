@@ -1,54 +1,87 @@
-<!-- Project Logo -->
+<h1 align="center">Hi 👋, I'm Parv Jain</h1>
+<h3 align="center">🚀 Java Full Stack Developer | Founder @ Namo Kitchen | Future Tech Leader</h3>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java logo" width="100" height="100"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Learning+Java+Full+Stack+Development;Building+Smart+Kitchen+Tech;Passionate+about+Code+%26+Business;18+and+just+getting+started!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🚀 JAVA ADVANCED 🚀</h1>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+- 🌱 Currently mastering **Java Full Stack**
+- 💼 Founder at **Namo Kitchen**
+- ⚙️ Learning daily: **DSA, Spring Boot, APIs, UI Design**
+- 🎯 Goal: Crack **top tech jobs** & build **scalable businesses**
+- 📫 Reach me at: **8949411719 | namokitchen.jpr@gmail.com**
+- ⚡ Fun Fact: *I drink whey protein with raw milk... like a boss 😎*
+
+---
+
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Level+Up+Your+Java+Skills;Master+Collections%2C+Threads%2C+Enums+and+More;Consistent+Code+%3D+Strong+Dev" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParvJain672006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Java-Advanced-blue?style=for-the-badge&logo=java&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/github/languages/top/ParvJain672006/JAVA-ADVANCED?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/github/last-commit/ParvJain672006/JAVA-ADVANCED?style=for-the-badge&color=brightgreen"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ParvJain672006&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParvJain672006&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🧠 About This Project
+### 🚀 Projects
 
-This repository is part of my **150 Days of Java** challenge where I'm going deep into advanced Java concepts including:
+> *(Add links here once you upload projects)*
 
-- ✅ Java Collections Framework (JCF)
-- ✅ Multi-threading & Concurrency
-- ✅ Enums & Custom Annotations
-- ✅ Clean Code Practices
-
-> 🔍 This project isn’t just for learning — I’m building real-world logic for business tools used in [Namo Kitchen](https://www.instagram.com/namokitchen_jaipur/).
+- 🔗 [Cold Press Oil Machine - Website](#)
+- 🔗 [Java DSA Practice](#)
+- 🔗 [Smart Kitchen Demo App](#)
 
 ---
 
-## 🗂️ Table of Contents
+### 🌐 Connect with Me
 
-- [🧠 About This Project](#-about-this-project)
-- [📁 Project Structure](#-project-structure)
-- [⚙️ Tech Stack](#️-tech-stack)
-- [📸 Screenshots](#-screenshots)
-- [📌 Usage](#-usage)
-- [📈 GitHub Stats](#-github-stats)
-- [🤝 Connect with Me](#-connect-with-me)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918949411719)
 
 ---
 
-## 📁 Project Structure
+### 🔥 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParvJain672006&label=Profile+Views&color=brightgreen&style=flat" alt="visitor badge"/>
+</p>
 
-```bash
-JAVA-ADVANCED/
-├── customAnnotations/
-├── Enumeration/
-├── intro/
-├── JCFjavaCOLLECTIONframework/
-│   └── LeaderBoardExample.java
-├── README.md
+---
+
+### 🧠 Goals for 2025
+
+- ✅ Learn Spring Boot & Hibernate
+- 🚀 Launch Namo Kitchen Online on Amazon
+- 🔥 Upload 10+ Java Projects on GitHub
+- 💼 Build Resume + Crack Internship by 2026
+
+> “Discipline beats motivation.” – Let's grind, not scroll.
+
+---
+
+Let me know if you want this as a downloadable `.md` file too.
+
+Ready to upload to GitHub and impress anyone who lands on your profile 🔥  
+Want a matching **GitHub profile banner** too? I can design that next!
